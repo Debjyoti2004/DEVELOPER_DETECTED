@@ -1,13 +1,13 @@
 {
-  "name": "devloper_mode_active",
+  "name": "developer_mode_active",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "dev": "vite", 
+    "build": "vite build", 
+    "lint": "eslint .", 
+    "preview": "vite preview" 
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.8",
